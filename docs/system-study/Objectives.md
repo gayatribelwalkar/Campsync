@@ -1,5 +1,4 @@
 # Objectives
-
 ## Academic Objectives
 
 - Apply Software Engineering principles to develop a real-world healthcare management system.

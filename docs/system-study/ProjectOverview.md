@@ -1,5 +1,4 @@
 # Project Overview
-
 ## Project Title
 
 CampSync: An Offline-First NGO Healthcare Camp, Patient and Medical Equipment Management System

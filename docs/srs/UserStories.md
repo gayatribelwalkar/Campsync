@@ -173,5 +173,4 @@ As a Patient, I want my healthcare records to remain confidential so that my per
 ---
 
 # Summary
-
 These user stories capture the primary expectations of all stakeholders and serve as the foundation for sprint planning, use case development, frontend design, and system implementation.

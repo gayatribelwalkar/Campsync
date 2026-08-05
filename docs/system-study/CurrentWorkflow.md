@@ -1,5 +1,4 @@
 # Current Workflow (AS-IS System)
-
 ## Pre-Camp Activities
 
 - Plan healthcare camp.

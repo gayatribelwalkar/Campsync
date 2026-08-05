@@ -2,7 +2,6 @@
 # 4. Problem Context
 
 Current NGO healthcare operations experience several challenges:
-
 - Paper-based patient registration is time-consuming.
 - Patient records are scattered across notebooks, spreadsheets, and messaging applications.
 - Medical equipment allocation lacks centralized tracking.

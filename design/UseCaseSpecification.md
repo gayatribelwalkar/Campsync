@@ -3,7 +3,6 @@
 ## Project Title
 **CampSync: A Resilient, Low-Bandwidth Consolidated NGO Healthcare & Inventory Management System**
 ---
-
 # 1. Introduction
 The Use Case Specification defines the interactions between different users (actors) and the CampSync system. It describes the functionalities provided by the system and helps developers understand how different stakeholders interact with the application. This document serves as the foundation for designing the Use Case Diagram and implementing the system.
 
@@ -11,7 +10,6 @@ The Use Case Specification defines the interactions between different users (act
 # 2. Actors
 ## 2.1 Field Volunteer
 Field Volunteers are responsible for conducting healthcare camps and collecting patient information in offline mode.
-
 **Responsibilities**
 - Login to the system
 - Register patients
@@ -25,7 +23,6 @@ Field Volunteers are responsible for conducting healthcare camps and collecting 
 ---
 ## 2.2 NGO Administrator
 NGO Administrators manage healthcare camps and monitor overall system activities.
-
 **Responsibilities**
 - Login
 - Manage healthcare camps
@@ -112,7 +109,6 @@ Partner hospitals receive referred patients.
 
 ---
 # 4. Actor – Use Case Mapping
-
 | Use Case | Volunteer | Admin | Doctor | Patient | Hospital |
 |-----------|:---------:|:-----:|:-------:|:-------:|:--------:|
 | Login | ✓ | ✓ | ✓ | | |

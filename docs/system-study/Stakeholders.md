@@ -1,5 +1,4 @@
 # Stakeholders
-
 ## Primary Stakeholders
 
 ### NGO Administrator

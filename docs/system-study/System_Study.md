@@ -1,5 +1,4 @@
 # System Study
-
 # CampSync: A Resilient, Low-Bandwidth Consolidated NGO Healthcare & Inventory System
 
 ---

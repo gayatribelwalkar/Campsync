@@ -1,5 +1,4 @@
 # Future Workflow (TO-BE System)
-
 ## Pre-Camp
 
 Volunteers download patient index and application data before leaving for the healthcare camp.
