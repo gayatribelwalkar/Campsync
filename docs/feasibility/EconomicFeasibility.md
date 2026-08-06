@@ -6,7 +6,6 @@
 Economic feasibility evaluates whether the proposed system is financially practical to develop, implement, operate, and maintain. It compares the expected costs with the anticipated benefits to determine whether the investment is worthwhile.
 
 CampSync is designed primarily for Non-Governmental Organizations (NGOs), which often operate with limited financial resources. Therefore, the system emphasizes the use of open-source technologies and cloud services with free or affordable plans to minimize development and operational costs.
-
 ---
 # 2. Development Cost
 The development cost of CampSync is significantly reduced because most of the software technologies used are open source.
